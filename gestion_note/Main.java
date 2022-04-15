@@ -2,8 +2,6 @@ package gestion_note;
 
 public class Main {
 
-	
-	
 	public static void main(String[] args) {
 	etudiant e1 = new etudiant(1,"hamid");
 	etudiant e2 = new etudiant(2,"driss");

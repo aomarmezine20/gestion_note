@@ -5,7 +5,9 @@ public class etudiant {
 	private String nom;
 	private double note;
 	public etudiant(int id ,String nom) {
-		this.id = 10;
+		note =10;
+		this.id = id;
+		this.nom =nom;
 	}
 	public String toString()
 	{

@@ -24,4 +24,10 @@ public class etudiant {
 		return false;
 
 	}
+	public void setNote(double note) {
+		this.note = note;
+	}
+	public double getNote() {
+		return note;
+	}
 }
